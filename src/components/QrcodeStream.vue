@@ -317,7 +317,7 @@ export default {
 .qrcode-stream__pause-frame {
   display: block;
   object-fit: contain;
-  max-width: 100%;
+  max-width: auto;
   max-height: 100%;
 }
 </style>
